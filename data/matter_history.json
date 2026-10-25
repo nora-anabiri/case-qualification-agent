@@ -1,0 +1,42 @@
+[
+  {
+    "matter_id": "M001",
+    "client_name": "Adaeze Okonkwo",
+    "opposing_party": "Lagos Metro Transit Ltd",
+    "case_type": "personal injury",
+    "status": "active",
+    "date_opened": "2026-03-10"
+  },
+  {
+    "matter_id": "M002",
+    "client_name": "Ifeoma Bassey",
+    "opposing_party": "Tunde Bassey",
+    "case_type": "family law",
+    "status": "closed",
+    "date_opened": "2025-01-15"
+  },
+  {
+    "matter_id": "M003",
+    "client_name": "Trident Logistics Ltd",
+    "opposing_party": "Okafor Freight Services",
+    "case_type": "contract dispute",
+    "status": "active",
+    "date_opened": "2026-06-01"
+  },
+  {
+    "matter_id": "M004",
+    "client_name": "Chidi Umeh",
+    "opposing_party": "Golden Gate Insurance",
+    "case_type": "personal injury",
+    "status": "active",
+    "date_opened": "2026-08-20"
+  },
+  {
+    "matter_id": "M005",
+    "client_name": "Blessing Nwachukwu",
+    "opposing_party": "State",
+    "case_type": "criminal",
+    "status": "closed",
+    "date_opened": "2025-11-05"
+  }
+]

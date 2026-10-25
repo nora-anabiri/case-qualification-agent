@@ -1,0 +1,18 @@
+[
+  {
+    "case_type": "personal injury",
+    "fee_structure": "contingency"
+  },
+  {
+    "case_type": "family law",
+    "fee_structure": "hourly"
+  },
+  {
+    "case_type": "contract dispute",
+    "fee_structure": "hourly, flat-fee option for straightforward cases"
+  },
+  {
+    "case_type": "criminal",
+    "fee_structure": "flat-fee"
+  }
+]

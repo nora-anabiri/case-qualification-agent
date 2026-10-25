@@ -1,0 +1,22 @@
+[
+  {
+    "attorney_name": "Adaeze Chukwu",
+    "practice_area": "personal injury",
+    "availability": "accepting"
+  },
+  {
+    "attorney_name": "Femi Adebayo",
+    "practice_area": "family law",
+    "availability": "accepting"
+  },
+  {
+    "attorney_name": "Grace Eneli",
+    "practice_area": "contract dispute",
+    "availability": "full"
+  },
+  {
+    "attorney_name": "Kelechi Obi",
+    "practice_area": "criminal",
+    "availability": "accepting"
+  }
+]
